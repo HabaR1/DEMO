@@ -1,7 +1,7 @@
 name: Tell-them-Tuesday
 on: push
 jobs:
-  my -jobs:
+  my-jobs:
      runs-on: ubuntu-latest
      steps:
        - name: my-steps
