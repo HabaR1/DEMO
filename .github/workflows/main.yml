@@ -5,4 +5,4 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - name: my-steps
-           run: echo "Tell them Tuesday."
+           run: echo "Tell them Tuesday!"
