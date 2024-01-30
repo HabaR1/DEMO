@@ -1,8 +1,8 @@
-name: Tell-them-Tuesday
+name: tell-them-tuesday
 on: push
 jobs:
   my-jobs:
      runs-on: ubuntu-latest
      steps:
        - name: my-steps
-           run:echo "Tell them Tuesday!"
+         run: echo "Tell Them Tuesday"
